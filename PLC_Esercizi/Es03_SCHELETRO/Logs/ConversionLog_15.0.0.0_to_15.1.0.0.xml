@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="ProgettoBase_HW_2021_V15.1" typeText="Tipo" messageText="Messaggio" timeText="Ora">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="10/10/2022 11:02:44">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Aggiornamento avviato" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="10/10/2022 11:02:46" Debug="false">
+    <Text>Reorganization succeed!</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="10/10/2022 11:02:48">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair lost+found objects" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="10/10/2022 11:02:48" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="10/10/2022 11:02:48">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair missing bidirectional links" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="10/10/2022 11:02:48" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="10/10/2022 11:02:48">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair clear segment flags" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="10/10/2022 11:02:48" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="10/10/2022 11:03:09">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Starting conversion of UMAC data." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="10/10/2022 11:03:09">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Conversion of UMAC data is finished." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="10/10/2022 11:03:09">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Starting conversion of user and roles configuration data." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="10/10/2022 11:03:09">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="User with the required engineering right &quot;Gestisci utenti e ruoli&quot; has logged in." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="10/10/2022 11:03:10">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Conversion of user and roles configuration is finished." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="10/10/2022 11:03:18">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Conversione delle informazioni dei riferimenti incrociati in corso." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="10/10/2022 11:03:19">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Creazione delle informazioni dei riferimenti incrociati riuscita." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="10/10/2022 11:03:19">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="La conversione delle informazioni dei riferimenti incrociati è terminata." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="10/10/2022 11:03:19" Debug="false">
+    <Text>Package container 'HW.S71500.CPU.CPU_1516_3_PN+DP.MDD_6ES7_516_3AN01_0AB0_2.0_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="10/10/2022 11:03:19" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Lang.S7PSW.V15.0.0.0.NonMandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="10/10/2022 11:03:19" Debug="false">
+    <Text>Package container 'HW.S71500.UnspecificCPU.CPU_15XX_Unspecific.MDD_6ES75XX_XXXXX_XXXX_2.0_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="10/10/2022 11:03:19" Debug="false">
+    <Text>Package container 'HW.S71500.RACK.MDD_6ES5xx-xxxxx-xxxx_1.0_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="10/10/2022 11:03:19" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Professional:14.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="10/10/2022 11:03:19" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Hmi.Comfort:14.00.00.00' was deleted</Text>
+  </Details>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="10/10/2022 11:03:20">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="Il progetto 'C:\Users\Backupuser\Desktop\ProgettoBase_HW_2021\System\PEData.plf' è stato aggiornato e salvato come progetto 'C:\Users\Backupuser\Desktop\ProgettoBase_HW_2021_V15.1\System\PEData.plf'." />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+</LogFile>
